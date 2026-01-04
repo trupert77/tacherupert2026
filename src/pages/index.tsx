@@ -27,6 +27,7 @@ export default function WeddingPage() {
                         <div className="rounded-2xl border border-slate-200 p-6">
                             <h2 className="text-lg font-semibold">Where</h2>
                             <p className="mt-2 text-slate-700">TBD</p>
+                            <p className="mt-1 text-slate-700">TTESTST</p>
                         </div>
                     </section>
 
